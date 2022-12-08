@@ -75,7 +75,7 @@ Nest is [MIT licensed](LICENSE).
 
 ## ##########################################################
 
-npx nest new exercise-crud.
-npm install --save @nestjs/typeorm typeorm pg.
-npm install @nestjs/config.
-npm start:dev.
+## npx nest new exercise-crud.
+## npm install --save @nestjs/typeorm typeorm pg.
+## npm install @nestjs/config.
+## npm start:dev.
